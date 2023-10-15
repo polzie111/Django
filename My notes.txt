@@ -1,0 +1,5 @@
+Aktualizacja modelu: (zrobic w powershell)
+python .\manage.py makemigrations
+python manage.py migrate
+Host:
+python manage.py runserver
