@@ -5,6 +5,9 @@ from my_book_web.models import Books, Author, Genre
 
 @admin.register(Books)
 class PersonAdmin(admin.ModelAdmin):
+    list_display = ["Title","Rating"]
+    list_filter = ["Rating"]
+    search_fields = ["Title"]
     pass
 
 @admin.register(Author)

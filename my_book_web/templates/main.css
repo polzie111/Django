@@ -1,0 +1,99 @@
+body
+{
+	background-color: #2F3336;
+	color: #efefef;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 17px;
+}
+
+h1
+{
+	font-size: 28px;
+	font-weight: 400;
+	color: #C0D06F;
+	margin: 10px;
+}
+.hbooks
+{
+	text-align: center;
+	background-color: #ABB3FF
+}
+
+.author
+{
+	margin-top: 50px;
+}
+
+.author p
+{
+	text-align: center;
+}
+
+.author img
+{
+	width: 100%;
+	height: auto;
+}
+
+.author figcaption
+{
+	margin-top: 8px;
+}
+
+.authordsc
+{
+	margin-top: 10px;
+}
+
+.authordsc p
+{
+	text-align: center;
+}
+
+.books
+{
+	margin-top: 20px;
+	text-align: center;
+}
+
+.books img
+{
+	width: 100%;
+	height: auto;
+}
+
+.books p
+{
+	text-align: left;
+}
+.books h2
+{
+	text-align: center;
+}
+
+.books figcaption
+{
+	margin-top: 8px;
+}
+
+/*
+.navbar-nav li:hover>.dropdown-menu
+{
+	display: block;
+}
+*/
+
+.navbar
+{
+	min-height: 57px;
+}
+
+.bg-books
+{
+	background-color: #E0E028;
+}
+
+
+
+
+

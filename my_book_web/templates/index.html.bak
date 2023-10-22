@@ -8,7 +8,7 @@
         {% if books %}
             <ul>
                 {% for my_book in books %}
-                    <li>{{ my_book.title }}</li>
+                    <li>{{ my_book.Title }}</li>
                 {% endfor %}
             </ul>
         {% else %}
